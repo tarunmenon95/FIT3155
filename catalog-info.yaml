@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: FIT3155
+  annotations:
+    github.com/project-slug: tarunmenon95/FIT3155
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
